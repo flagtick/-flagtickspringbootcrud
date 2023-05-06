@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.flagtick.repository.UserRepositoryIntegrationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.046 sec - in com.flagtick.repository.UserRepositoryIntegrationTests

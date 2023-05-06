@@ -1,0 +1,6 @@
+com\flagtick\JpaConfiguration.class
+com\flagtick\repository\UserRepository.class
+com\flagtick\entity\User$UserBuilder.class
+com\flagtick\entity\User.class
+com\flagtick\SampleDataJpaApplication.class
+com\flagtick\web\SampleController.class
